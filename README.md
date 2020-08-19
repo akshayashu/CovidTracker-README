@@ -2,7 +2,7 @@
 
 ## An Android Studio project
 
-I've done web-scrapping for tracking live data. I've also used some external libraries for UI/UX improvement i.e MP Android Chart('com.github.PhilJay:MPAndroidChart:v3.1.0').
+I've done web-scrapping for tracking live data. Data updates dynamically as well. I've also used some external libraries for UI/UX improvement i.e MP Android Chart('com.github.PhilJay:MPAndroidChart:v3.1.0').
 
 Here are some screenshots from the app..
 
